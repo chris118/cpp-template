@@ -1,7 +1,7 @@
 /*
- *  encapsulation_mysql.cpp
+ *  main.cpp
  *
- *  Created on: 2016-12-12
+ *  Created on: xxx
  *      Author: wangxiaopeng
  */
 
